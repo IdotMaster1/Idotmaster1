@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, i'm IdotMaster1
+## or bunkermatty
 
-I am a moron.
-[![IdotMaster1's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdotMaster1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- I'm intrested in how cryptocurrencies and computers work. 
+- I'm learning C
+- I use Arch Linux on my PC and a Debian + Windows 7 + Windows XP tripleboot on my ThinkPad T510
